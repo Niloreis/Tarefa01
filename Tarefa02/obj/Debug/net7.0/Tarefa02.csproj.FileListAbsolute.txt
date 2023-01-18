@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\bin\Debug\net7.0\Tarefa02.exe
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\bin\Debug\net7.0\Tarefa02.deps.json
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\bin\Debug\net7.0\Tarefa02.runtimeconfig.json
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\bin\Debug\net7.0\Tarefa02.dll
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\bin\Debug\net7.0\Tarefa02.pdb
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.dll
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\refint\Tarefa02.dll
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.pdb
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\Tarefa02.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\aula01\Tarefa02\Tarefa02\obj\Debug\net7.0\ref\Tarefa02.dll
